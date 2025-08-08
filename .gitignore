@@ -5,7 +5,4 @@
 __pycache__/
 *.py[cod]
 
-# Environment variables
-strava_env
-
-LICENSE
+.env
